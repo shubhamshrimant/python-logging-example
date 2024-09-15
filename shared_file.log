@@ -1,0 +1,8 @@
+error message from module 2
+warning messahe from module 2
+info message from module 1
+debug messahe from module 1
+2024-08-25 14:30:45,747 - shared_logger - INFO - info message from module 1
+2024-08-25 14:30:45,748 - shared_logger - DEBUG - debug messahe from module 1
+2024-08-25 14:31:20,658 - shared_logger - ERROR - error message from module 2
+2024-08-25 14:31:20,660 - shared_logger - WARNING - warning messahe from module 2
